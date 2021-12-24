@@ -1,0 +1,5 @@
+Credentials cache: API:EC349927-3B2A-475F-BA3D-CF6F404E61F2
+        Principal: sakllam@1337.MA
+
+  Issued                Expires               Principal
+Aug  3 14:29:32 2021  Aug  4 14:29:17 2021  krbtgt/1337.MA@1337.MA
